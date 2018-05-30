@@ -1,8 +1,8 @@
 from mcpi.minecraft import Minecraft
 import time
 
-mc=Minecraft.create()
-#mc=Minecraft.create("10.163.80.195",4711)
+#mc=Minecraft.create()
+mc=Minecraft.create("10.163.80.195",4711)
 
 stayed_time=0
 
